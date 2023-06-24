@@ -1,4 +1,4 @@
-// Test GitHub
+// Test GitHub depository
 // https://tutoduino.fr/
 // Copyleft 2023
 
